@@ -1,0 +1,7 @@
+D:\Dev\lab2\InterfaVolador\InterfaVolador\bin\Debug\InterfaVolador.exe.config
+D:\Dev\lab2\InterfaVolador\InterfaVolador\bin\Debug\InterfaVolador.exe
+D:\Dev\lab2\InterfaVolador\InterfaVolador\bin\Debug\InterfaVolador.pdb
+D:\Dev\lab2\InterfaVolador\InterfaVolador\obj\Debug\InterfaVolador.csprojAssemblyReference.cache
+D:\Dev\lab2\InterfaVolador\InterfaVolador\obj\Debug\InterfaVolador.csproj.CoreCompileInputs.cache
+D:\Dev\lab2\InterfaVolador\InterfaVolador\obj\Debug\InterfaVolador.exe
+D:\Dev\lab2\InterfaVolador\InterfaVolador\obj\Debug\InterfaVolador.pdb

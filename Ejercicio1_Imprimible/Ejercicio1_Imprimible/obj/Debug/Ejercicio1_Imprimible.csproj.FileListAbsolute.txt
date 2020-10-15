@@ -1,0 +1,16 @@
+C:\Users\varga\Desktop\Ejercicio1_Imprimible\Ejercicio1_Imprimible\bin\Debug\Ejercicio1_Imprimible.exe.config
+C:\Users\varga\Desktop\Ejercicio1_Imprimible\Ejercicio1_Imprimible\obj\Debug\Ejercicio1_Imprimible.csprojResolveAssemblyReference.cache
+C:\Users\varga\Desktop\Ejercicio1_Imprimible\Ejercicio1_Imprimible\bin\Debug\Ejercicio1_Imprimible.exe
+C:\Users\varga\Desktop\Ejercicio1_Imprimible\Ejercicio1_Imprimible\bin\Debug\Ejercicio1_Imprimible.pdb
+C:\Users\varga\Desktop\Ejercicio1_Imprimible\Ejercicio1_Imprimible\obj\Debug\Ejercicio1_Imprimible.exe
+C:\Users\varga\Desktop\Ejercicio1_Imprimible\Ejercicio1_Imprimible\obj\Debug\Ejercicio1_Imprimible.pdb
+C:\Users\varga\Documents\Universidad\L2\Ejercicio1_Imprimible\Ejercicio1_Imprimible\bin\Debug\Ejercicio1_Imprimible.exe.config
+C:\Users\varga\Documents\Universidad\L2\Ejercicio1_Imprimible\Ejercicio1_Imprimible\obj\Debug\Ejercicio1_Imprimible.exe
+C:\Users\varga\Documents\Universidad\L2\Ejercicio1_Imprimible\Ejercicio1_Imprimible\obj\Debug\Ejercicio1_Imprimible.pdb
+C:\Users\manue\Downloads\Ejercicio1\Ejercicio1_Imprimible\Ejercicio1_Imprimible\bin\Debug\Ejercicio1_Imprimible.exe.config
+C:\Users\manue\Downloads\Ejercicio1\Ejercicio1_Imprimible\Ejercicio1_Imprimible\bin\Debug\Ejercicio1_Imprimible.exe
+C:\Users\manue\Downloads\Ejercicio1\Ejercicio1_Imprimible\Ejercicio1_Imprimible\bin\Debug\Ejercicio1_Imprimible.pdb
+C:\Users\manue\Downloads\Ejercicio1\Ejercicio1_Imprimible\Ejercicio1_Imprimible\obj\Debug\Ejercicio1_Imprimible.csprojAssemblyReference.cache
+C:\Users\manue\Downloads\Ejercicio1\Ejercicio1_Imprimible\Ejercicio1_Imprimible\obj\Debug\Ejercicio1_Imprimible.csproj.CoreCompileInputs.cache
+C:\Users\manue\Downloads\Ejercicio1\Ejercicio1_Imprimible\Ejercicio1_Imprimible\obj\Debug\Ejercicio1_Imprimible.exe
+C:\Users\manue\Downloads\Ejercicio1\Ejercicio1_Imprimible\Ejercicio1_Imprimible\obj\Debug\Ejercicio1_Imprimible.pdb
